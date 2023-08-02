@@ -1,1 +1,1 @@
-# Electric-Motor-Temperature
+# Electric-Motor-Temperature (Project)
